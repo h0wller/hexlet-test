@@ -1,0 +1,7 @@
+.form-input {
+  height: 50px;
+}
+
+textarea.form-input {
+  height: 200px;
+}
